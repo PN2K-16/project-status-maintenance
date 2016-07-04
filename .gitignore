@@ -1,0 +1,13 @@
+/vendor
+/node_modules
+Homestead.yaml
+.env
+resources/views/Gihan/CRM - Interfaces/Thumbs.db
+.idea/dictionaries/gihanf.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/remas.iml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+.idea/workspace.xml
